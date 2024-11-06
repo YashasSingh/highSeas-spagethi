@@ -12,7 +12,7 @@ The Virtual Spaghetti Painter is a simple Python-based image manipulation tool t
 - Outputs a fun, pasta-splattered version of the original image.
 
 ## 📂 Files
-- `spaghetti_painter.py`: Main script to apply the pasta splatter effect on an image.
+- `code.py`: Main script to apply the pasta splatter effect on an image.
 - `README.md`: Project documentation (this file).
 
 ## 🚀 Getting Started
